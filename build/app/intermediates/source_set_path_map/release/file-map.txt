@@ -1,0 +1,17 @@
+com.example.wrote_guess.app-jetified-window-1.0.0-beta04-0 /home/ikura/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.wrote_guess.app-core-1.8.0-1 /home/ikura/.gradle/caches/transforms-3/2fa18b2f544a798470f6ba6d29f55f60/transformed/core-1.8.0/res
+com.example.wrote_guess.app-jetified-annotation-experimental-1.1.0-2 /home/ikura/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.wrote_guess.app-jetified-core-ktx-1.8.0-3 /home/ikura/.gradle/caches/transforms-3/8ae9843b381467f93b6a13b4c93092af/transformed/jetified-core-ktx-1.8.0/res
+com.example.wrote_guess.app-lifecycle-runtime-2.3.1-4 /home/ikura/.gradle/caches/transforms-3/9a249567dcb8025899915ed9a2426636/transformed/lifecycle-runtime-2.3.1/res
+com.example.wrote_guess.app-jetified-window-java-1.0.0-beta04-5 /home/ikura/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.wrote_guess.app-main-6 /home/ikura/Android/FlutterProject/wrote_guess_done_v1/wrote_guess/android/app/src/main/res
+com.example.wrote_guess.app-release-7 /home/ikura/Android/FlutterProject/wrote_guess_done_v1/wrote_guess/android/app/src/release/res
+com.example.wrote_guess.app-pngs-8 /home/ikura/Android/FlutterProject/wrote_guess_done_v1/wrote_guess/build/app/generated/res/pngs/release
+com.example.wrote_guess.app-resValues-9 /home/ikura/Android/FlutterProject/wrote_guess_done_v1/wrote_guess/build/app/generated/res/resValues/release
+com.example.wrote_guess.app-rs-10 /home/ikura/Android/FlutterProject/wrote_guess_done_v1/wrote_guess/build/app/generated/res/rs/release
+com.example.wrote_guess.app-mergeReleaseResources-11 /home/ikura/Android/FlutterProject/wrote_guess_done_v1/wrote_guess/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.wrote_guess.app-mergeReleaseResources-12 /home/ikura/Android/FlutterProject/wrote_guess_done_v1/wrote_guess/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.wrote_guess.app-merged_res-13 /home/ikura/Android/FlutterProject/wrote_guess_done_v1/wrote_guess/build/app/intermediates/merged_res/release
+com.example.wrote_guess.app-packaged_res-14 /home/ikura/Android/FlutterProject/wrote_guess_done_v1/wrote_guess/build/flutter_native_splash/intermediates/packaged_res/release
+com.example.wrote_guess.app-packaged_res-15 /home/ikura/Android/FlutterProject/wrote_guess_done_v1/wrote_guess/build/flutter_tts/intermediates/packaged_res/release
+com.example.wrote_guess.app-packaged_res-16 /home/ikura/Android/FlutterProject/wrote_guess_done_v1/wrote_guess/build/path_provider_android/intermediates/packaged_res/release

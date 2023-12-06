@@ -1,0 +1,4 @@
+#Tue Nov 21 21:53:49 MYT 2023
+base.0=/home/ikura/Android/FlutterProject/wrote_guess_done_v1/wrote_guess/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

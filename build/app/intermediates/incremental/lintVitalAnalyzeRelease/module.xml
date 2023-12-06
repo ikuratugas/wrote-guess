@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/ikura/Android/FlutterProject/wrote_guess_done_v1/wrote_guess/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="/home/ikura/Android/FlutterProject/wrote_guess_done_v1/wrote_guess/build/app"
+    bootClassPath="/home/ikura/Android/Sdk/platforms/android-33/android.jar:/home/ikura/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
